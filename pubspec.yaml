@@ -23,3 +23,8 @@ flutter:
 
   assets:
     - assets/
+
+  fonts:
+    - family: Qwigley
+      fonts:
+        - asset: fonts/Qwigley-Regular.ttf
