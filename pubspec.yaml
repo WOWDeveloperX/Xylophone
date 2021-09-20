@@ -23,8 +23,9 @@ flutter:
 
   assets:
     - assets/
+    - images/
 
   fonts:
-    - family: Qwigley
+    - family: CHERISH
       fonts:
-        - asset: fonts/Qwigley-Regular.ttf
+        - asset: fonts/Cherish-Regular.ttf
