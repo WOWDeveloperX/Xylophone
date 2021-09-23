@@ -14,7 +14,7 @@ class XylophoneApp extends StatelessWidget {
       padding: const EdgeInsets.all(8.0),
       child: Container(
         color: color,
-        height: 62,
+        height: 47,
         child: TextButton(
           onPressed: () {
             playSound(soundNumber);
@@ -31,10 +31,10 @@ class XylophoneApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.black,
         appBar: AppBar(
-          title: Text(' - - X  y l o p h o~n e - -',
+          title: Text('   - - X  y l o p h o~n e - -',
               style: TextStyle(
                   fontFamily: 'CHERISH',
-                  fontSize: 54,
+                  fontSize: 40,
                   color: Colors.red.shade100)),
           backgroundColor: Colors.black,
         ),
